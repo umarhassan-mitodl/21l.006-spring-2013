@@ -32,7 +32,7 @@ uid: 1d7686c0-bdf2-c7aa-d12a-a6f526f2dbc4
 
 {{% resource_link "1d7686c0-bdf2-c7aa-d12a-a6f526f2dbc4" "Harriet Beecher Stowe" "#Harriet_Beecher_Stowe" %}}
 
-[Walt Whitman](https://public.archive.wsu.edu/campbelld/public_html/amlit/whitman.htm)
+{{% resource_link "ec939a23-f909-44f1-9665-d0a176c9c08e" "Walt Whitman" %}}
 
 {{% resource_link "1d7686c0-bdf2-c7aa-d12a-a6f526f2dbc4" "Samuel Clemens/Mark Twain" "#Samuel_Clemens_Mark_Twain" %}}
 
@@ -42,79 +42,79 @@ uid: 1d7686c0-bdf2-c7aa-d12a-a6f526f2dbc4
 
 ### {{< anchor "General" >}}{{< /anchor >}}General
 
-- [MIT Libraries Research Guide for Literary Study](http://libguides.mit.edu/lit)          
+- {{% resource_link "c53e632c-0479-47cb-bfb1-8c3eb64bf49e" "MIT Libraries Research Guide for Literary Study" %}}          
     Reference materials, scholarly databases, OED, wonderful things
-- [MIT Writing and Communications Center](http://cmsw.mit.edu/writing-and-communication-center/)          
+- {{% resource_link "b149831c-1515-4055-b26c-2b57fdfc2336" "MIT Writing and Communications Center" %}}          
     For writing help and a rich supply of resources (click "Resources").
-- [Guidelines on MLA Citation Form](http://owl.english.purdue.edu/owl/resource/747/01/)         
-    From the Purdue OWL (Online Writing Lab). Follow links to information on citing sources and using correct form for Works Cited lists.\* [MLA Citations](http://writing.wisc.edu/Handbook/DocMLA.html)          
+- {{% resource_link "d3c48b24-6525-40fb-83cd-0d1f79534887" "Guidelines on MLA Citation Form" %}}         
+    From the Purdue OWL (Online Writing Lab). Follow links to information on citing sources and using correct form for Works Cited lists.\* {{% resource_link "8dc9fd7d-3e05-47b9-8fea-94b75df9b04b" "MLA Citations" %}}          
     Linked from the MIT Writing and Communication Center.
-- [Argument and Thesis](http://owl.english.purdue.edu/owl/owlprint/588/)          
+- {{% resource_link "1bd9f079-da7a-47c5-8bba-d53568a2e39e" "Argument and Thesis" %}}          
     Ways to test your thesis statement from Purdue OWL.
-- [What Wikipedia Can Tell Us About the New Media Literacies](http://henryjenkins.org/2007/06/what_wikipedia_can_teach_us_ab.html)          
+- {{% resource_link "09759e99-e636-47f2-9909-cae1be6906f7" "What Wikipedia Can Tell Us About the New Media Literacies" %}}          
     An article by Henry Jenkins (CMS) at his blog, "Confessions of an Aca-Fan." Note that this is Part One; you can also go to Part Two. A good way to think about what Wikipedia is for.
-- [Searchable Bible](http://www.biblestudytools.com/)          
+- {{% resource_link "5965bb3b-386a-4097-ad37-d370e7e9fc2d" "Searchable Bible" %}}          
     Use the King James Version.
 
 ### {{< anchor "Spotlight_on_Grammar_and_Style" >}}{{< /anchor >}}Spotlight on Grammar and Style
 
-- [Mayfield Manual Usage Glossary](http://www.mhhe.com/mayfieldpub/tsw/home.htm)          
+- {{% resource_link "29883201-e99c-413b-b926-7f5ec81bd562" "Mayfield Manual Usage Glossary" %}}          
     Getting it right.
-- [MIT Libraries Style Manuals and Guides](http://libguides.mit.edu/content.php?pid=80743&sid=598619)          
+- {{% resource_link "2a4319cd-4dc6-479e-9ca4-44d9efdadc5c" "MIT Libraries Style Manuals and Guides" %}}          
     Resources for writers
-- [H.W. Fowler, The King's English](http://www.bartleby.com/116/)          
+- {{% resource_link "835fb3ab-354b-42e7-bc43-b2eb2c2f24af" "H.W. Fowler, The King's English" %}}          
     An unimpeachable authority from 1908.
-- [After Deadline](http://afterdeadline.blogs.nytimes.com/2009/08/04/subject-meet-verb/?_r=0)          
+- {{% resource_link "89a27e04-dba5-4786-bde4-188012bfdec1" "After Deadline" %}}          
     The New York Times blog on writing issues.
 
 ### {{< anchor "Mary_Rowlandson" >}}{{< /anchor >}}Mary Rowlandson
 
-- ["Mary Rowlandson and the Psalms," by Dawn Henwood](http://gateway.proquest.com/openurl?ctx_ver=Z39.88-2003&xri:pqil:res_ver=0.2&res_id=xri:lion-us&rft_id=xri:lion:ft:mla:R03047963:0)
+- {{% resource_link "340b1c13-fba8-4c4c-848d-1d0930742117" "\"Mary Rowlandson and the Psalms,\" by Dawn Henwood" %}}
 
 ### {{< anchor "Transcendentalism" >}}{{< /anchor >}}Transcendentalism
 
-- [Transcendentalism web link](https://plato.stanford.edu/entries/transcendentalism/)
+- {{% resource_link "f5e587bc-ceff-442a-87e3-a933324ea527" "Transcendentalism web link" %}}
 
 ### {{< anchor "Nathaniel_Hawthorne" >}}{{< /anchor >}}Nathaniel Hawthorne
 
-- [Hawthorne site (WSU)](https://public.archive.wsu.edu/campbelld/public_html/amlit/hawthor.htm)
-- [Hawthorne in Salem](http://www.hawthorneinsalem.org/)
+- {{% resource_link "3cefbc15-1cef-45dd-bda8-866fe7329632" "Hawthorne site (WSU)" %}}
+- {{% resource_link "635f5d01-e014-4b6e-8dbc-500a8062b040" "Hawthorne in Salem" %}}
 
 ### {{< anchor "Herman_Melville" >}}{{< /anchor >}}Herman Melville
 
-- [Melville site (WSU)](https://public.archive.wsu.edu/campbelld/public_html/amlit/melville.htm)
+- {{% resource_link "d67b9c7a-eb81-4681-8b82-17db82d260b3" "Melville site (WSU)" %}}
 
 ### {{< anchor "Frederick_Douglass" >}}{{< /anchor >}}Frederick Douglass
 
-- [Schomburg Library/Images of African Americans](https://www.nypl.org/about/locations/schomburg/digital-schomburg/images)
-- [American Visionaries/Frederick Douglass](https://www.nps.gov/museum/exhibits/douglass/visionary.html)
-- [Africans in America (PBS)](http://www.pbs.org/wgbh/aia/part4/4p1539.html)
-- ['I Was Born': Slave Narratives, Their Status as Autobiography and as Literature," by James Olney](http://www.jstor.org/stable/2930678)
+- {{% resource_link "631d2c95-2205-4913-9956-f6ae5b44450f" "Schomburg Library/Images of African Americans" %}}
+- {{% resource_link "00a6ff1d-7921-4b4a-bf41-afb33d792987" "American Visionaries/Frederick Douglass" %}}
+- {{% resource_link "d518c787-545c-4e48-8e7a-f1a10b85cff9" "Africans in America (PBS)" %}}
+- {{% resource_link "80a2b1c7-2453-415d-99cc-2a8a61c7b5c1" "'I Was Born': Slave Narratives, Their Status as Autobiography and as Literature,\" by James Olney" %}}
 
 ### {{< anchor "Harriet_Beecher_Stowe" >}}{{< /anchor >}}Harriet Beecher Stowe
 
-- [Uncle Tom's Cabin and American Culture](http://utc.iath.virginia.edu/)          
+- {{% resource_link "0b252684-9fa3-4f41-9c6c-2a09a1ce56fd" "Uncle Tom's Cabin and American Culture" %}}          
     Excellent site, with many images—browse many themes in Stowe's novel and culture.
-- [American Authors/Stowe](https://public.archive.wsu.edu/campbelld/public_html/amlit/stowe.htm)
+- {{% resource_link "013b4d36-c357-4b21-8361-6cc66310bd98" "American Authors/Stowe" %}}
 
 ### {{< anchor "Walt_Whitman" >}}{{< /anchor >}}Walt Whitman
 
-- [The Classroom Electric](http://www.classroomelectric.org/intro.html)          
+- {{% resource_link "006cafea-6e88-4862-ab12-49ab9ca08394" "The Classroom Electric" %}}          
     Material on Whitman, Dickinson, and their era. Contains the Whitman Archive and the Dickinson Electronic Archive.
-- [Walt Whitman Archive](http://www.whitmanarchive.org/)
-- [Walt Whitman, American Authors Site](https://public.archive.wsu.edu/campbelld/public_html/amlit/whitman.htm)
+- {{% resource_link "dc69257c-fdce-4c58-96b6-eb061dae4c55" "Walt Whitman Archive" %}}
+- {{% resource_link "ec939a23-f909-44f1-9665-d0a176c9c08e" "Walt Whitman, American Authors Site" %}}
 
 ### {{< anchor "Samuel_Clemens_Mark_Twain" >}}{{< /anchor >}}Samuel Clemens/Mark Twain
 
-- [Mark Twain/PBS Mark](http://www.pbs.org/marktwain/index.html)
-- [Twain in His Times site](http://twain.lib.virginia.edu/index2.html)
-- [Mark Twain (WSU)](https://public.archive.wsu.edu/campbelld/public_html/amlit/twain.htm)
+- {{% resource_link "170e3550-1c09-44ef-a837-6eaeff8d0d4a" "Mark Twain/PBS Mark" %}}
+- {{% resource_link "8cbadb40-ff77-4fef-a72c-078663da2d3b" "Twain in His Times site" %}}
+- {{% resource_link "12930bbd-f007-41d5-99ce-ddce57bdfbbc" "Mark Twain (WSU)" %}}
 
 ### {{< anchor "Harlem_Renaissance" >}}{{< /anchor >}}Harlem Renaissance
 
-- [Perspectives in American Literature Overview](https://www.paulreuben.website/pal/chap9/9intro.html)
+- {{% resource_link "fdb3c015-c627-4123-87a9-a22c7a84c8a3" "Perspectives in American Literature Overview" %}}
 
 ### {{< anchor "Toni_Morrison" >}}{{< /anchor >}}Toni Morrison
 
-- [Nag Hammadi (Epigraph to Jazz)](http://www.gnosis.org/naghamm/thunder.html)
-- [On Gnosticism (Nag Hammadi)](http://www.pbs.org/wgbh/pages/frontline/shows/religion/story/pagels.html)
+- {{% resource_link "ed98ab8d-b6a0-46f6-bf49-60f49bf50f1d" "Nag Hammadi (Epigraph to Jazz)" %}}
+- {{% resource_link "4f3c74ec-77b2-45e5-868a-00fdbbfb7638" "On Gnosticism (Nag Hammadi)" %}}
